@@ -1,16 +1,15 @@
-#Performance Insights Dashboard
+# Performance Insights Dashboard
 
-##Summary:
+## Summary:
 Using SQl, and PowerBi, I pulled bike share and cost table from Kaggle and created a performance insights dashboard to track operational performance. This enabled stakeholders to delve deep into crucials metrics shuch as hourly revenue analysis, profits trends and riders types.
 
-##Business Problem:
+## Business Problem:
 T-Bike Share faced the challenge of effectively monitoring and analyzing key performance metrics to drive strategic decision-making. Without a centralized platform to track revenue trends, profit margins, and rider type, the company struggled to optimize pricing strategies and capitalize on seasonal fluctuations in demand.
 
-Methodology:
+## Methodology:
 Utilizing PowerBI and SQL, I wrote SQl queries that extracts, transform and load CSV dataset (source: Kaggle). Through iterative dashboard development, I ensured the inclusion of essential metrics such as hourly revenue analysis, profit trends, and rider type, enabling comprehensive insights into the company's performance.
 
-Skills:
-
+## Skills:
 SQL: SELECT, CTES, Joins, Aggregate functions
 Power BI: Dax, ETL, Calculated columns, Data visualisation
 Data analysis skills to derive actionable insights
