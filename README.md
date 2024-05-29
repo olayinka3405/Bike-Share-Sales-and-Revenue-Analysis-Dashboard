@@ -1,10 +1,28 @@
-# Project Title: Sales and Revenue Analysis Dashboard
+#Performance Insights Dashboard
+
+##Summary:
+Using SQl, and PowerBi, I pulled bike share and cost table from Kaggle and created a performance insights dashboard to track operational performance. This enabled stakeholders to delve deep into crucials metrics shuch as hourly revenue analysis, profits trends and riders types.
+
+##Business Problem:
+T-Bike Share faced the challenge of effectively monitoring and analyzing key performance metrics to drive strategic decision-making. Without a centralized platform to track revenue trends, profit margins, and rider type, the company struggled to optimize pricing strategies and capitalize on seasonal fluctuations in demand.
+
+Methodology:
+Utilizing PowerBI and SQL, I wrote SQl queries that extracts, transform and load CSV dataset (source: Kaggle). Through iterative dashboard development, I ensured the inclusion of essential metrics such as hourly revenue analysis, profit trends, and rider type, enabling comprehensive insights into the company's performance.
+
+Skills:
+
+SQL: SELECT, CTES, Joins, Aggregate functions
+Power BI: Dax, ETL, Calculated columns, Data visualisation
+Data analysis skills to derive actionable insights
+Strong understanding of business requirements and key performance indicators
+Ability to communicate complex findings to stakeholders effectively
+
+
+## Brief Introduction:
+In today's data-driven business environment, leveraging analytics to gain insights is crucial for sustained success. To address this need, I developed a 'Sales and Revenue Analysis Dashboard' using Power BI. This dashboard is designed for a ride-sharing company to provide a holistic view of its performance across various dimensions.
 
 ## Potential Problem to Solve:
-This dashboard can be used to solve the problem of understanding and optimizing sales performance in a ride-sharing business. By analyzing hourly sales data, total revenue, rider demographics, profit margins, seasonal trends, and rider types, the dashboard provides insights into peak sales periods, rider behavior, and profitability. This information can help in strategic decision-making, marketing efforts, and operational improvements.
-
-## Brief Introduction for Portfolio:
-In today's data-driven business environment, leveraging analytics to gain insights is crucial for sustained success. To address this need, I developed a 'Sales and Revenue Analysis Dashboard' using Power BI. This dashboard is designed for a ride-sharing company to provide a holistic view of its performance across various dimensions.
+This dashboard can be used to solve the problem of understanding and optimizing sales performance in a ride-sharing business. By analyzing hourly sales data, total revenue, profit margins, seasonal trends, and rider types, the dashboard provides insights into peak sales periods, rider behavior, and profitability. This information can help in strategic decision-making, marketing efforts, and operational improvements.
 
 ## Key features include:
 Bike Share Sales and Revenue Analysis Dashboard Report (Dataset: 2021-2022).
