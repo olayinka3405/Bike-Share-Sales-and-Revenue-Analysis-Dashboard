@@ -10,11 +10,11 @@ T-Bike Share faced the challenge of effectively monitoring and analyzing key per
 Utilizing PowerBI and SQL, I wrote SQl queries that extracts, transform and load CSV dataset (source: Kaggle). Through iterative dashboard development, I ensured the inclusion of essential metrics such as hourly revenue analysis, profit trends, and rider type, enabling comprehensive insights into the company's performance.
 
 ## Skills:
-SQL: SELECT, CTES, Joins, Aggregate functions
-Power BI: Dax, ETL, Calculated columns, Data visualisation
-Data analysis skills to derive actionable insights
-Strong understanding of business requirements and key performance indicators
-Ability to communicate complex findings to stakeholders effectively
+1. SQL: SELECT, CTES, Joins, Aggregate functions
+2. Power BI: Dax, ETL, Calculated columns, Data visualisation
+3. Data analysis skills to derive actionable insights
+4. Strong understanding of business requirements and key performance indicators
+5. Ability to communicate complex findings to stakeholders effectively
 
 
 ## Brief Introduction:
